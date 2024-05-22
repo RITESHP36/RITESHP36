@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Generative FFCS recommendation system**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **react, tailwind and material-ui**
 
