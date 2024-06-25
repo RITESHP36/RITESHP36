@@ -3,14 +3,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/media/aa96d6f1e953e30284f28e1add8b3ad2.gif">
 
-
-- 🔭 I’m currently working on **Generative FFCS recommendation system**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **App Development**
 
 - 💬 Ask me about **react, tailwind and material-ui**
 
 - 📫 How to reach me **riteshpradhan2003@gmail.com**
+
+- 🌐 My portfolio: [ritesh-pradhan.vercel.app](https://ritesh-pradhan.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,4 +43,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshp36&show_icons=true&locale=en&layout=compact" alt="riteshp36" /></p>
-
