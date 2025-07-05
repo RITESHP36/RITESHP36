@@ -11,7 +11,7 @@
 - 🎓 I'm pursuing a B.Tech in CSE with a specialization in **AI & Machine Learning**.
 - 💡 I'm driven by solving complex problems, from algorithmic challenges to building complete operational platforms.
 - 📫 How to reach me: **riteshpradhan2003@gmail.com**
-- 🌐 My portfolio: **[ritesh-pradhan.vercel.app](https'://ritesh-pradhan.vercel.app/)**
+- 🌐 My portfolio: **[ritesh-pradhan.vercel.app](https://ritesh-pradhan.vercel.app/)**
 
 <br/>
 
